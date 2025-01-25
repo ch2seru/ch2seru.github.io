@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[236],{8236:(e,n,s)=>{s.r(n),s.d(n,{default:()=>c});var o=s(5043),t=s(579);let l=(0,o.memo)((function(){return console.log("\uc7ac\ub79c\ub369\ub9c1\ub428"),(0,t.jsx)("div",{children:"Child"})}));const c=function(e){let[n,s]=(0,o.useState)(0);return(0,o.useMemo)((()=>function(){for(let e=0;e<1e7;e++);console.log("test 1000000")}()),[n]),(0,t.jsxs)("div",{className:"container",children:[(0,t.jsx)(l,{count:n}),(0,t.jsx)("h1",{children:"meme, useMemo"})]})}}}]);
+//# sourceMappingURL=236.d6a19863.chunk.js.map
